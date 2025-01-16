@@ -18,7 +18,8 @@
 ---
 
 ## 📸 Picture Placeholder
-<img src="https://ibb.co/W2nCrFN" alt="Saqlain Zarjis Ansari" width="100%" />
+<img src="[url=https://ibb.co/W2nCrFN][img]https://i.ibb.co/crJqWtK/Whats-App-Image-2025-01-16-at-12-14-19-10f3bc31.jpg[/img][/url]
+[url=https://imgbb.com/]how do you upload photos[/url]" width="100%" />
 
 ---
 
