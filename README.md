@@ -17,7 +17,7 @@
 
 ---
 
-## 📸 Picture Placeholder
+## 📸 ICPC REGIONALS 2023-2024
 <img src="https://i.ibb.co/crJqWtK/Whats-App-Image-2025-01-16-at-12-14-19-10f3bc31.jpg" alt="Whats-App-Image-2025-01-16-at-12-14-19-10f3bc31" width="100%" />
 
 ---
