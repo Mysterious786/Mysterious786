@@ -18,7 +18,7 @@
 ---
 
 ## 📸 Picture Placeholder
-<img src="https://drive.google.com/file/d/1Gce_YL3vFJtCSPK0FdK4P_H-AoP2R065/view?usp=sharing" alt="Saqlain Zarjis Ansari" width="100%" />
+<img src="https://ibb.co/W2nCrFN" alt="Saqlain Zarjis Ansari" width="100%" />
 
 ---
 
